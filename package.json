@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "run": "node main.ts",
     "test:watch": "jest --watch"
   },
   "author": "",
@@ -16,6 +17,7 @@
     "babel-jest": "^26.1.0",
     "jest": "^26.1.0",
     "prettier": "^2.0.5",
+    "pusher": "^3.0.1",
     "typescript": "^3.9.6"
   }
 }
