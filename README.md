@@ -7,6 +7,7 @@ Introduction - 5min
 
 Coding - 50min
 
+
 Retrospective - 5min
 
 ### Introduction
